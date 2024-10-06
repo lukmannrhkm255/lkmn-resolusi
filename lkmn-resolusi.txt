@@ -1,3 +1,5 @@
 LKMN RESOLUSI
 - Konsisten Belajar pemrograman
-- 
+- Membuat Web portfolia
+- Membuat Web Perusahaan
+
